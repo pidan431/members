@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "个人主页",
     "section": "",
-    "text": "欢迎来到我的文学化编程实践空间 ✨\n这里是我在《数据驱动的可重复性研究》课程中的学习园地。 🌱\n\n🚀 我的进度清单\n\n安装 Positron 编辑器 💻\n配置 Cline 插件 🤖\n发布网站到 GitHub Pages 🌐\n\n\n\n💡 提示：文学化编程的魅力在于代码、文档与输出的一体化。"
+    "text": "欢迎来到我的文学化编程实践空间 ✨\n这里是我在《数据驱动的可重复性研究》课程中的学习园地。 🌱\n\n\n\n\n\n\nNote文学化编程 (Literate Programming)\n\n\n\n按照 Donald Knuth 的观点，程序应该像文学作品一样可读，代码和文档应融为一体 。\n\n\n\n🚀 学习路径图\n\n工具链搭建：安装 Positron 与配置 Cline 。\n版本控制：掌握 Git 提交与 GitHub 协作 。\n自动化发布：通过 quarto publish 实现持续集成 。\n\n\n\n📊 编程氛围感 (Vibe Coding)\n利用 AI 辅助生成的简单可视化示例：\n#| label: fig-curve #| fig-cap: “一个简单的正弦曲线演示” x &lt;- seq(0, 10, 1) y &lt;- sin(x) plot(x, y, type = “l”, col = “blue”, lwd = 2)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "关于我",
     "section": "",
-    "text": "姓名：周奕楠\n学号：2025303120083\n专业：资源利用与植物保护 🧬"
+    "text": "姓名：王家傲\n学号：2025303120130\n专业：资源利用与植物保护 🧬"
   },
   {
-    "objectID": "about.html#个人档案",
-    "href": "about.html#个人档案",
+    "objectID": "about.html#个人信息",
+    "href": "about.html#个人信息",
     "title": "关于我",
     "section": "",
-    "text": "姓名：周奕楠\n学号：2025303120083\n专业：资源利用与植物保护 🧬"
+    "text": "姓名：王家傲\n学号：2025303120130\n专业：资源利用与植物保护 🧬"
   },
   {
     "objectID": "about.html#学习心得",
