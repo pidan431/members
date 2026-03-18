@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://pidan431.github.io/members/research.html</loc>
+    <lastmod>2026-03-18T13:12:08.764Z</lastmod>
+  </url>
+  <url>
     <loc>https://pidan431.github.io/members/index.html</loc>
-    <lastmod>2026-03-13T09:40:18.572Z</lastmod>
+    <lastmod>2026-03-18T13:12:05.871Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pidan431.github.io/members/blog.html</loc>
+    <lastmod>2026-03-18T13:15:16.863Z</lastmod>
   </url>
   <url>
     <loc>https://pidan431.github.io/members/about.html</loc>
-    <lastmod>2026-03-13T09:25:09.890Z</lastmod>
+    <lastmod>2026-03-18T13:53:29.956Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pidan431.github.io/members/contact.html</loc>
+    <lastmod>2026-03-18T13:15:18.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pidan431.github.io/members/projects.html</loc>
+    <lastmod>2026-03-18T13:15:14.842Z</lastmod>
   </url>
 </urlset>

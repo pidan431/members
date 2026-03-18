@@ -1,30 +1,149 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "研究方向",
+    "section": "",
+    "text": "基于电容传感器\n实时监测叶片含水量\n\n\n\n\n\n\n可穿戴式植物传感\n低侵入监测\n\n\n\n\n\n\n数据驱动农业\n无人机 + 传感器融合\n\n\n\n\n\n\n随机森林分类\n作物状态识别"
+  },
+  {
+    "objectID": "research.html#植物水分监测",
+    "href": "research.html#植物水分监测",
+    "title": "研究方向",
+    "section": "",
+    "text": "基于电容传感器\n实时监测叶片含水量"
+  },
+  {
+    "objectID": "research.html#柔性传感器",
+    "href": "research.html#柔性传感器",
+    "title": "研究方向",
+    "section": "",
+    "text": "可穿戴式植物传感\n低侵入监测"
+  },
+  {
+    "objectID": "research.html#智慧农业",
+    "href": "research.html#智慧农业",
+    "title": "研究方向",
+    "section": "",
+    "text": "数据驱动农业\n无人机 + 传感器融合"
+  },
+  {
+    "objectID": "research.html#机器学习应用",
+    "href": "research.html#机器学习应用",
+    "title": "研究方向",
+    "section": "",
+    "text": "随机森林分类\n作物状态识别"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "个人主页",
+    "title": "🌱 资源利用与植物保护",
     "section": "",
-    "text": "欢迎来到我的文学化编程实践空间 ✨\n这里是我在《数据驱动的可重复性研究》课程中的学习园地。 🌱\n\n\n\n\n\n\nNote文学化编程 (Literate Programming)\n\n\n\n按照 Donald Knuth 的观点，程序应该像文学作品一样可读，代码和文档应融为一体 。\n\n\n\n🚀 学习路径图\n\n工具链搭建：安装 Positron 与配置 Cline 。\n版本控制：掌握 Git 提交与 GitHub 协作 。\n自动化发布：通过 quarto publish 实现持续集成 。\n\n\n\n📊 编程氛围感 (Vibe Coding)\n利用 AI 辅助生成的简单可视化示例：\n#| label: fig-curve #| fig-cap: “一个简单的正弦曲线演示” x &lt;- seq(0, 10, 1) y &lt;- sin(x) plot(x, y, type = “l”, col = “blue”, lwd = 2)"
+    "text": "我专注于：\n\n🌿 植物生理信息监测\n\n📡 柔性传感器\n\n🤖 智慧农业与机器学习\n\n\n\n\n\n\n\n\n\n\n无损检测\n实时数据采集\n多模态融合\n\n\n\n\n\n\n随机森林\n时序分析\n数据可视化\n\n\n\n\n\n\nESP32\nFDC2214\n多传感器融合\n\n\n\n\n\n\n\n\n\n基于柔性传感器的植物水分与胁迫监测系统\n\n\n\n\n\n\n👉 查看【研究方向】\n👉 查看【项目经历】\n👉 查看【博客笔记】"
+  },
+  {
+    "objectID": "index.html#欢迎来到我的科研主页",
+    "href": "index.html#欢迎来到我的科研主页",
+    "title": "🌱 资源利用与植物保护",
+    "section": "",
+    "text": "我专注于：\n\n🌿 植物生理信息监测\n\n📡 柔性传感器\n\n🤖 智慧农业与机器学习"
+  },
+  {
+    "objectID": "index.html#研究亮点",
+    "href": "index.html#研究亮点",
+    "title": "🌱 资源利用与植物保护",
+    "section": "",
+    "text": "无损检测\n实时数据采集\n多模态融合\n\n\n\n\n\n\n随机森林\n时序分析\n数据可视化\n\n\n\n\n\n\nESP32\nFDC2214\n多传感器融合"
+  },
+  {
+    "objectID": "index.html#当前研究",
+    "href": "index.html#当前研究",
+    "title": "🌱 资源利用与植物保护",
+    "section": "",
+    "text": "基于柔性传感器的植物水分与胁迫监测系统"
+  },
+  {
+    "objectID": "index.html#快速导航",
+    "href": "index.html#快速导航",
+    "title": "🌱 资源利用与植物保护",
+    "section": "",
+    "text": "👉 查看【研究方向】\n👉 查看【项目经历】\n👉 查看【博客笔记】"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "博客",
+    "section": "",
+    "text": "介绍电容传感器原理与使用方法\n\n\n\n\n讲解如何采集并传输数据\n\n\n\n\n随机森林在农业中的应用"
+  },
+  {
+    "objectID": "blog.html#最近文章",
+    "href": "blog.html#最近文章",
+    "title": "博客",
+    "section": "",
+    "text": "介绍电容传感器原理与使用方法\n\n\n\n\n讲解如何采集并传输数据\n\n\n\n\n随机森林在农业中的应用"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "关于我",
     "section": "",
-    "text": "姓名：王家傲\n学号：2025303120130\n专业：资源利用与植物保护 🧬"
+    "text": "专业：资源利用与植物保护\n姓名：聂雅杉 学号：2025303120137\n研究兴趣：\n\n植物水分监测\n农业传感器\n智慧农业\n\n\n\n\n\n💻 编程：Python / C / Flutter\n🔌 硬件：ESP32 / 树莓派\n📊 数据分析：机器学习\n\n\n\n\n\n构建低成本、高精度的农业智能监测系统"
   },
   {
-    "objectID": "about.html#个人信息",
-    "href": "about.html#个人信息",
+    "objectID": "about.html#技能",
+    "href": "about.html#技能",
     "title": "关于我",
     "section": "",
-    "text": "姓名：王家傲\n学号：2025303120130\n专业：资源利用与植物保护 🧬"
+    "text": "💻 编程：Python / C / Flutter\n🔌 硬件：ESP32 / 树莓派\n📊 数据分析：机器学习"
   },
   {
-    "objectID": "about.html#学习心得",
-    "href": "about.html#学习心得",
+    "objectID": "about.html#目标",
+    "href": "about.html#目标",
     "title": "关于我",
-    "section": "📚 学习心得",
-    "text": "📚 学习心得\n在本次课程中，我正在探索： 1. Quarto：新一代的文学化编程工具。 2. Vibe Coding：尝试人机协作的新范式。\n感谢访问我的主页！ 🎈"
+    "section": "",
+    "text": "构建低成本、高精度的农业智能监测系统"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "联系我",
+    "section": "",
+    "text": "📧 Email: your@email.com\n🐙 GitHub: https://github.com/你的用户名\n\n\n\n\n\n农业智能监测\n传感器开发\n数据分析"
+  },
+  {
+    "objectID": "contact.html#合作方向",
+    "href": "contact.html#合作方向",
+    "title": "联系我",
+    "section": "",
+    "text": "农业智能监测\n传感器开发\n数据分析"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "项目经历",
+    "section": "",
+    "text": "使用 FDC2214 采集电容数据\nESP32 进行数据传输\nFlutter 实现可视化\n\n\n\n\n\n\n实时显示传感器数据\n折线图趋势分析\n数据保存功能\n\n\n\n\n\n\n多传感器融合\n数据驱动决策"
+  },
+  {
+    "objectID": "projects.html#植物电容监测系统",
+    "href": "projects.html#植物电容监测系统",
+    "title": "项目经历",
+    "section": "",
+    "text": "使用 FDC2214 采集电容数据\nESP32 进行数据传输\nFlutter 实现可视化"
+  },
+  {
+    "objectID": "projects.html#农业监测app",
+    "href": "projects.html#农业监测app",
+    "title": "项目经历",
+    "section": "",
+    "text": "实时显示传感器数据\n折线图趋势分析\n数据保存功能"
+  },
+  {
+    "objectID": "projects.html#智能农业平台",
+    "href": "projects.html#智能农业平台",
+    "title": "项目经历",
+    "section": "",
+    "text": "多传感器融合\n数据驱动决策"
   }
 ]
